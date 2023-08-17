@@ -6,8 +6,8 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
-title = "Example - CV"
+baseURL = "https://briannabeitling-resume.netlify.app"
+title = "Brianna Beitling Resume"
 #googleAnalytics = ""
 
 [params]
