@@ -1,0 +1,11 @@
+.interests {
+    display: table;
+    -moz-column-count: 2;
+    column-count: 2;
+    width: 100%;
+    text-align: left;
+    @include avoid-break;
+
+   
+    
+}

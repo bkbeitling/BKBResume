@@ -1,0 +1,16 @@
+.language {
+    &__item {
+        display: table;
+        width: 100%;
+        margin-bottom: 0.7rem;
+    }
+
+    &__name,
+    &__level {
+        width: 100%;
+        
+        text-indent: -5px ;
+        
+    }
+
+}

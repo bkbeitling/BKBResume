@@ -1,0 +1,174 @@
+BasicInfo:
+  FirstName: Brianna
+  LastName: Beitling
+  Photo: img/logo.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +1 816 853 5556
+    - Icon: fas fa-envelope
+      Info: brianna.kay.beitling@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Kansas City, MO
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/brianna-beitling/" target="_blank">in/brianna-beitling</a>
+
+Profile: Statistical analyst with a passion for leveraging various analytical tools to uncover and present the story data has to tell. Regarded across teams as a data detective because of a keen attention to detail allowing for early error detection and diagnosis.
+
+Experience:
+  - Employer: Accessible Teaching, Learning, and Assessment Systems
+    Place: Remote
+    Positions:
+      - Title: Associate Psychometrician
+        Date: May 2020 - Present
+        Details:
+          - Lead projects by developing research questions and plans for analyses; pulling, cleaning, and manipulating data utilizing SQL, R, and SAS; executing statistical analyses including ANOVA, Kruskal Wallis, chi-square, and multiple regression models; summarizing and presenting results to state partners and the Technical Advisory Committee
+          - Mentor and oversee a member of the team transitioning to a data analysis role
+          - Act as a resource for the entire team with respect to statistical best practices, including writing documentation, presenting example visualizations, and consulting on the statistical methods proposed for analyses
+        Badges: 
+      - Title: Assistant Psychometrician
+        Date: Apr 2015 - May 2020
+        Details:
+          - Wrote and edited scripts using SQL, R, SAS, and Google Scripts (Javascript) to automate processes; summarized results in tables and visualizations; and created accompanying documentation
+          - Crafted survey questions for inclusion in the annual teacher survey
+          - Used sampling techniques to select participants for various studies
+          - Developed and implemented QA processes for score verification, then led a team of seven members to execute on those processes. These QA efforts reduced errors on score reports provided to clients and improved operational efficiency in terms of creating and delivering reports
+          - Wrote, edited, and assembled technical manuals, research briefs for teacher survey responses and test administration observations, and contributed to other various reports
+        Badges: 
+  - Employer: Park Hill School District
+    Place: Kansas City, MO
+    Positions:
+      - Title: Statistical Consultant
+        Date: June 2011 - Feb 2012
+        Details:
+          - Evaluated the return on investment and value add of district-wide learning intervention programs
+          - Developed a multivariate regression model to gauge the effectiveness of the assessment software utilized by the district in predicting Missouri Assessment Program scores
+        Badges: 
+  # - Employer: Institute of Neural Engineering
+  #   Place: Graz, AT
+  #   Class: "experience__extra_padding"
+  #   Positions:
+  #     - Title: Master's Thesis Research Intern
+  #       Date: Oct 2016 - Jun 2017
+  #       Details:
+  #         - Arcu vitae elementum curabitur vitae nunc sed velit
+  #         - Viverra aliquet eget sit amet tellus cras adipiscing
+  #         - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  #         - Nisl tincidunt eget nullam non nisi est
+  #       Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+
+Education:
+  - Course: Master of Science in Applied Statistics and Analytics
+    Place: University of Kansas Medical Center
+    Date: May 2020
+    Details:
+      - Emphasis in Data Science
+      - Training in software including SAS, R, JMP, Tableau, and Python
+      - Courework in statistical software, statistical analysis (linear regression, categorical data analysis, and multivariate statistics), and data science (statistical learning, data visualization, and data mining)
+  - Course: Bachelor of Science in Economics, Psychology
+    Place: Truman State University 
+    Date: May 2012
+    Details:
+      - Participated in "The 7 Habits of Highly Effective People" and "The 4 Roles of Leadership" trainings
+      - Active member of Phi Kappa Phi, Psi Chi, and Kappa Mu Epsilon
+      - Graduated Magna Cum Laude
+
+
+References:
+  - Name: Kobrin, J.L., Clark, A.K., Beitling, B., & Thompson, W.J. (2022, April). The impact of COVID-19 on education for students with significant cognitive disabilities. Paper presented at the annual meeting of the American Educational Research Association. San Diego, CA. April 25, 2022.
+    Relation: Won IAEA Award for Excellent Research on Inclusion and Accessibility in Educational Assessment
+    Contacts:
+    - Icon: 
+      Info: 
+    - Icon: 
+      Info: 
+    - Icon: 
+      Info: 
+  - Name: Karvonen, M., Beitling, B., Erickson, K., Morgan, S., & Bull, R. (2021). Students with significant cognitive disabilities and dual sensory loss. Co-published by Accessible Teaching, Learning, and Assessment Systems and the National Center on Deaf-Blindness. Lawrence, KS University of Kansas, Accessible Teaching, Learning, and Assessment Systems (ATLAS). Sands Point, NY National Center on Deaf-Blindness (NCDB).
+    Relation:
+    Contacts:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+  - Name: Beitling, B., & Clark, A. (2019). Spring 2019 teacher survey (Research Synopsis 19-04). Lawrence, KS University of Kansas, Accessible Teaching, Learning, and Assessment Systems (ATLAS).
+    Relation:
+    Contacts:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+  - Name: Beitling, B., & Clark, A. (2019). 2018-2019 test administration observations (Research Synopsis 19- 03). Lawrence, KS University of Kansas, Accessible Teaching, Learning, and Assessment Systems (ATLAS).
+    Relation:
+    Contacts:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+  - Name: Clark, A., Beitling, B., Bell, B., & Karvonen, M. (2016). Results from external review during the 2015– 2016 academic year (Technical Report No. 16-05). Lawrence, KS University of Kansas, Center for Educational Testing and Evaluation.
+    Relation:
+    Contacts:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+    - Icon:
+      Info:
+
+
+Skills:
+  - Family: Technical
+    Items:
+      - <a class="skills__group" href="https://www.credly.com/badges/e65466b9-4c58-452c-9ae5-882a4ba98a04" target="_blank">SAS Certified Advanced Programmer</a>
+      - R
+      - RMarkdown
+      - SQL
+      - SPSS
+      - Tableau
+      - Git
+      - Google Apps Script (Javascript)
+      - Excel
+  - Family: Other
+    Items:
+      - Management
+      - Meticulous attention to detail
+      - Error detection and diagnosis
+      - Process improvement
+  # - Family: Developer Tools
+  #   Items:
+  #     - Git
+  #     - Docker
+  #     - Jenkins
+  #     - AWS
+  # - Family: Misc
+  #   Items:
+  #     - Adobe Tools
+  #     - LaTeX
+
+Languages:
+  - Name: High School Mathematics Teacher, Park Hill School District (Aug 2013 - Aug 2015)
+    Level: 
+  - Name: Statistics Tutor, Baylor University (Aug 2012 - May 2013)
+    Level: 
+  - Name: Statistics Grader, Truman State University (Aug 2009 - May 2012)
+    Level:
+  - Name: Statistics Tutor, Truman State University (Feb 2009 - May 2011)
+    Level:
+
+Diplomas:
+  - Analysis of "Survivor"" Strategy Through Time
+  - Who has the Upper Hand in "Survivor" (A Visual Analysis)
+
+Interests:
+  - Reading
+  - Cozy video games
+  - Strategic board games
+  - Horseback riding
+  - Statistics Without Borders
