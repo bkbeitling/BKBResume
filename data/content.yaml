@@ -6,11 +6,11 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: +1 816 853 5556
     - Icon: fas fa-envelope
-      Info: brianna.kay.beitling@gmail.com
+      Info: <a class="contact__link" href="mailto:brianna.kay.beitling@gmail.com" target="_blank">brianna.kay.beitling@gmail.com</a>
     - Icon: fas fa-map-marker-alt
       Info: Kansas City, MO
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="https://briannabeitling.netlify.app" target="_blank">briannabeitling.netlify.app</a>
     - Icon: fab fa-linkedin
       Info: <a class="contact__link" href="https://www.linkedin.com/in/brianna-beitling/" target="_blank">in/brianna-beitling</a>
 
