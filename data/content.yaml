@@ -3,8 +3,8 @@ BasicInfo:
   LastName: Beitling
   Photo: img/logo.jpg
   Contacts:
-    - Icon: fas fa-phone
-      Info: +1 816 853 5556
+    # - Icon: fas fa-phone
+    #   Info: +1 816 853 5556
     - Icon: fas fa-envelope
       Info: <a class="contact__link" href="mailto:brianna.kay.beitling@gmail.com" target="_blank">brianna.kay.beitling@gmail.com</a>
     - Icon: fas fa-map-marker-alt
@@ -14,7 +14,7 @@ BasicInfo:
     - Icon: fab fa-linkedin
       Info: <a class="contact__link" href="https://www.linkedin.com/in/brianna-beitling/" target="_blank">in/brianna-beitling</a>
 
-Profile: Statistical analyst with a passion for leveraging various analytical tools to uncover and present the story data has to tell. Regarded across teams as a data detective because of a keen attention to detail allowing for early error detection and diagnosis.
+Profile: Draws from a unique background which lends to a multidisciplinary application of statistical methodology and strong ability to convey results to people with varying technical expertise. Creates functional and approachable output from scripts to data visualizations. 
 
 Experience:
   - Employer: Accessible Teaching, Learning, and Assessment Systems
@@ -165,7 +165,7 @@ Languages:
 Diplomas:
   - Survivor Jury Vote          
   - Survivor Returning Contestants
-  - Survivor Demographic Advantage Visual Analysis
+  - Survivor Demographic Advantages
 
 Interests:
   - Reading
